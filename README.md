@@ -28,3 +28,4 @@
    <a href="https://instagram.com/laribileski" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
+![snake gif](https://github.com/larissabileski/larissabileski/blob/output/github-contribution-grid-snake.svg)
